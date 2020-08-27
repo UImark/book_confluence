@@ -9,3 +9,4 @@
 
 # 書籍一覧
  * [データ視覚化のデザイン](./data_visualization_design)
+ * [データベース技術の教科書](./DatabaseTextbook)
