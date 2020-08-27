@@ -8,4 +8,4 @@
 クオリティは自分がわかればヨシ。
 
 # 書籍一覧
- * [サンプル書籍](./sample_dir)
+ * [データ視覚化のデザイン](./data_visualization_design)
